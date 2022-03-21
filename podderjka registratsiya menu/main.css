@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgba(20, 28, 36, 1);
+  color: white;
+}
+
+.container{
+  width: 836px;
+  margin: 274px auto;  
+
+}
+
+.container>h1{
+  display: inline-block;
+  margin-left: 41px;
+  font-size: 39px;
+}
+
+.container>a>img{
+  width: 12px;
+  height: 18px;
+}
+
+.container>p{
+  color: #ABABAB;
+}

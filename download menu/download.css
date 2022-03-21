@@ -1,0 +1,39 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #141C24;
+}
+
+.container{
+  width: 658px;
+  margin: 0 auto;
+}
+
+.data{
+  margin-top: 314px;
+  color: white;
+  display: flex;
+  margin-bottom: 125px;
+}
+
+.data>a>img{
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 71px;
+  margin-top: 10px;
+  width: 13px;
+  height: 20px;
+}
+
+.images{
+  margin-left: -70px;
+}
+
+.images>img{
+  margin-left: 61px;
+}

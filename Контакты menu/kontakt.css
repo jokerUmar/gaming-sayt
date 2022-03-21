@@ -1,0 +1,42 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #141C24;
+}
+
+.container{
+  width: 100px;
+  margin: 0 auto;
+  color: white;
+}
+
+.data{
+  margin-top: 227px;
+  display: flex;
+  margin-bottom: 54px;
+}
+.data>h1{
+  margin-left: -10px;
+  font-size: 48px;
+}
+
+.data>a>img{
+  margin-top: 20px;
+  width: 15px;
+  height: 20px;
+  margin-right: 38px; 
+}
+
+.images{
+  display: flex;
+  margin-left: 90px;
+
+}
+
+.images>img{
+  margin-left: 10px;
+}
